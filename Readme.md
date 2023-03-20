@@ -16,6 +16,10 @@ The web page then shows this table of the annual auction volumes.
 
 ![](figure2-table-mismatchScreenshot_2023-03-10_16-53-51.png)
 
+However, the table and the chart don't match. They cover different five year periods. There is also an error in the html code of the table. There is a blank cell missing in the first row and first column. And the column headings need to be moved one cell to the right so that 'TOTAL' is above '75.2'. I emailed the Ministry back in February to politely let them now. However, nothing has changed.
+
+I find that quite comical. The web site administrator and the external relations person just got so bored talking with the emission policy person that they fell asleep. If it's comedy, it's really a tragi-comedy. One day far in the future, alien anthropologists will discover that the planet Earth missed it's global warming goals because of ["My Eyes Glaze Over"](https://en.wiktionary.org/wiki/mego) for any one to understand!
+
 Specifically, the emissions budget is the 2020 provisional emissions budget for the years 2021 to 2025. This comes from a [Q and A document](https://www.beehive.govt.nz/sites/default/files/2020-06/NZETS%20Q%26A.pdf) attached to a Government media release dated 2 June 2020 [Emission trading reforms another step to meeting climate targets](https://www.beehive.govt.nz/release/emission-trading-reforms-another-step-meeting-climate-targets) by James Shaw Minister for Climate Change Issues.
 
 These five year emissions budgets roll forward as each year passes. So the current emissions budget is 2023 to 2027.
