@@ -16,7 +16,7 @@ The web page then shows this table of the annual auction volumes.
 
 ![](figure2-table-mismatchScreenshot_2023-03-10_16-53-51.png)
 
-However, the table and the chart don't match. They cover different five year periods. There is also an error in the html code of the table. There is a blank cell missing in the first row and first column. And the column headings need to be moved one cell to the right so that 'TOTAL' is above '75.2'. I emailed the Ministry back in February to politely let them now. However, nothing has changed.
+However, the table and the chart don't match. They cover different five year periods. There is also an error in the html code of the table. There is a blank cell missing in the first row and first column. And the column headings need to be moved one cell to the right so that 'TOTAL' is above '75.2'. I emailed the Ministry back in February to politely let them know. However, nothing has changed.
 
 I find that quite comical. The web site administrator and the external relations person just got so bored talking with the emission policy person that they fell asleep. If it's comedy, it's really a tragi-comedy. One day far in the future, alien anthropologists will discover that the planet Earth missed it's global warming goals because of ["My Eyes Glaze Over"](https://en.wiktionary.org/wiki/mego) for any one to understand!
 
