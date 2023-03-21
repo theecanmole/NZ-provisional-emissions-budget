@@ -74,7 +74,7 @@ This chart now summarises the message of the two previous charts. Because the de
 
 ![](Emissions-budget9-720by540.svg)
 
-<div style="border-width:1px; border-style:solid; border-color:#F00000; padding: 1em;">
+<span style="border-width:1px; border-style:solid; border-color:#F00000; padding: 1em;">
 
 Summary points to note. The emissions trading scheme has fundamental flaws in it's design:
 
@@ -84,4 +84,4 @@ Summary points to note. The emissions trading scheme has fundamental flaws in it
   <li>the excessive surplus of privately held emission units reflecting the importing of 'hot air' international units.</li></ol>
 
 These three flaws require bodges to the emissions budgetting process that reduce the quantity of emissions subject to an emissions price.
-</div>
+</span>
