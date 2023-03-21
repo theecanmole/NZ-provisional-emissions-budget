@@ -74,11 +74,14 @@ This chart now summarises the message of the two previous charts. Because the de
 
 ![](Emissions-budget9-720by540.svg)
 
-<p style="border-width:1px; border-style:solid; border-color:#F00000; padding: 1em;">
-  Summary points to note. The emissions trading scheme has fundamental flaws in it's design:</p>
+<div style="border-width:1px; border-style:solid; border-color:#F00000; padding: 1em;">
+
+Summary points to note. The emissions trading scheme has fundamental flaws in it's design:
+
 <ol>
   <li>the exclusion of agricultural emissions from ETS obligation,</li>
   <li>the excessively generous industrial allocation of free emissions units to emitters,</li>
   <li>the excessive surplus of privately held emission units reflecting the importing of 'hot air' international units.</li></ol>
-<p style="border-width:1px; border-style:solid; border-color:#F00000; padding: 1em;">These three flaws require bodges to the emissions budgetting process that reduce the quantity of emissions subject to an emissions price.</br>
-</p>
+
+These three flaws require bodges to the emissions budgetting process that reduce the quantity of emissions subject to an emissions price.
+</div>
